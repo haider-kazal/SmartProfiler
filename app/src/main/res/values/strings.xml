@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Smart Profiler</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="greeting">Press &quot;On&quot; for starting service, &quot;Off&quot; for stopping service</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+
+</resources>
